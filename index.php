@@ -1,6 +1,8 @@
 <?php
 
   echo "Meu primeiro código PHP! <strong>Teste</strong>";
-  echo "Testando uma alteração";
+  echo "Testando uma alteração - teste 2";
+
+  echo "Olá Udemy";
 
 ?>
